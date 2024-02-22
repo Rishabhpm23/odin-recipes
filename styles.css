@@ -1,0 +1,20 @@
+.links:hover{
+    font-size: 24px;
+    background-color: rgb(146, 221, 242);
+    width: 450px;
+    border: 8px solid rgb(66, 16, 246);
+    padding: 50px;
+    margin: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    transition: cursor 1s ease;
+    cursor: pointer;
+    
+}
+
+h1{
+    font-size: 50px;
+    background-color: aquamarine;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
